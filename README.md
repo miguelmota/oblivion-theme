@@ -1,8 +1,7 @@
 Oblivion Theme
 ==============
 
-A Tumblr Theme 
---------------
+### A Tumblr Theme 
 
 #### Features
 * Customizable colors

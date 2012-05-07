@@ -40,6 +40,6 @@ Thumbs.db
 
 # Other #
 ######################
-.assets/
-.tests-people/
-.releases/
+assets/
+tests-people/
+releases/

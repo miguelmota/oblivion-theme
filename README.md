@@ -22,4 +22,4 @@ Latest release: v1.2.6
 
 Oblivion Tumblog: [obliviontheme.tumblr.com/](http://obliviontheme.tumblr.com/)
 
-Oblivion theme install: [www.tumblr.com/theme/32724](http://www.tumblr.com/theme/32724)
+Oblivion theme install: [tumblr.com/theme/32724](http://www.tumblr.com/theme/32724)

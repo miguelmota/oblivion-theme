@@ -40,7 +40,7 @@ Thumbs.db
 
 # Other #
 ######################
-#assets/
+assets/
 !assets/css/
 !assets/icons/
 !assets/site/

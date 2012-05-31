@@ -1,12 +1,12 @@
 # Oblivion Theme
 
-### A dark [tumblr](http://www.tumblr.com/) theme 
+### a dark [tumblr](http://www.tumblr.com/) theme 
 
 ## Demo
 
-[obliviontheme.tumblr.com/](http://obliviontheme.tumblr.com/)
+[obliviontheme.tumblr.com](http://obliviontheme.tumblr.com/)
 
-## Theme install
+## Theme Install
 
 [tumblr.com/theme/32724](http://www.tumblr.com/theme/32724)
 

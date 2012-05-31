@@ -1,6 +1,6 @@
 #Oblivion Theme
 
-### A dark [tumblr](http://www.tumblr.com/) Theme 
+### A dark [tumblr](http://www.tumblr.com/) theme 
 
 ## Demo
 

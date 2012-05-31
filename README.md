@@ -10,7 +10,7 @@
 
 [tumblr.com/theme/32724](http://www.tumblr.com/theme/32724)
 
-## Features
+## Features & Options
 
 * Customizable colors
 * Adjustable post width

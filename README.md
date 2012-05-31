@@ -29,6 +29,6 @@ Latest release: <code>v1.2.6</code>
 
 ## License
 
-Released under Creative Commons Attribution 3.0 License
+Released under the Creative Commons Attribution 3.0 License
 
 (c) 2012 [Miguel Mota](http://www.miguelmota.com/)

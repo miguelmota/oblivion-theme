@@ -1,9 +1,17 @@
-Oblivion Theme
-==============
+#Oblivion Theme
 
-### A dark tumblr Theme 
+### A dark [tumblr](http://www.tumblr.com/) Theme 
 
-#### Features
+## Demo
+
+[obliviontheme.tumblr.com/](http://obliviontheme.tumblr.com/)
+
+## Theme install
+
+[tumblr.com/theme/32724](http://www.tumblr.com/theme/32724)
+
+## Features
+
 * Customizable colors
 * Adjustable post width
 * Disqus comments
@@ -17,8 +25,10 @@ Oblivion Theme
 * Endless scroll
 * Masonry
 
-Latest release: v1.2.6
+Latest release: <code>v1.2.6</code>
 
-Oblivion Tumblog: [obliviontheme.tumblr.com/](http://obliviontheme.tumblr.com/)
+## License
 
-Oblivion theme install: [tumblr.com/theme/32724](http://www.tumblr.com/theme/32724)
+Released under Creative Commons Attribution 3.0 License
+
+(c) 2012 [Miguel Mota](http://www.miguelmota.com/)

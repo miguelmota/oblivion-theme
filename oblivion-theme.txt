@@ -684,7 +684,7 @@
 		background: url('http://static.tumblr.com/r8galzl/g0tlu4l4b/flickr.png');
 	}
 	.icon-gplus-24 {
-		background: url('http://static.tumblr.com/r8galzl/KW4m6ns28/gplus.png');
+		background: url('http://static.tumblr.com/r8galzl/KW4m6ns28/gplus.png') no-repeat;
 	}
 	.icon-heart-16 {
 		background: url('http://static.tumblr.com/r8galzl/nf8lu4l37/heart.png');
@@ -787,7 +787,7 @@
 		background: url('http://static.tumblr.com/r8galzl/3jim6nxg9/world.png');
 	}
 	.icon-youtube-24 {
-		background: url('http://static.tumblr.com/r8galzl/Qopm6nx7l/youtube.png');
+		background: url('http://static.tumblr.com/r8galzl/Qopm6nx7l/youtube.png') no-repeat;
 	}
 	.loader {
 		background: url('http://static.tumblr.com/r8galzl/nx5lu4kz5/ajax-loader.gif') no-repeat 0 0;
@@ -1634,7 +1634,7 @@
 			{/block:IfShowRandom}
 			{block:IfShowLikes}
 				{block:Likes}
-					<li><a href='http://www.tumblr.com/liked/by/{Name}'><span class='icon icon-heart-16 icon-nav'></span> Likes</a></li>
+					<li><a id='liked' href='http://www.tumblr.com/liked/by/{Name}'><span class='icon icon-heart-16 icon-nav'></span> Likes</a></li>
 				{/block:Likes}
 			{/block:IfShowLikes}
 			{block:IfShowArchive}

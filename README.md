@@ -18,7 +18,7 @@
 * Display latest tweets
 * Display likes
 * Display following
-* Display Social Icons
+* Display social media icons
 * Like button
 * Reblog button
 * Share buttons

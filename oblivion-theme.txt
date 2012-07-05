@@ -129,7 +129,7 @@
 	<link rel='stylesheet' href='http://static.tumblr.com/r8galzl/uTDlv8yf3/reset.min.css' />
 	
 	<!-- jQuery, jquery.com -->
-	<script src='http://code.jquery.com/jquery.min.js'></script>
+	<script src='http://static.tumblr.com/ctuvo3d/0mXm6o7fx/jquery.min.js'></script>
 	
 	
 	{block:IfEnableMasonry}
@@ -1190,7 +1190,7 @@
 	 * --------------------------------------------- */
 	.post {
 		background-color: {color:Background Post};
-		dipslay: block;  
+		dipslay: block;
 		{block:IfEnableMasonry}float: left;{/block:IfEnableMasonry}
 		margin: 5px 0;
 		{block:IfEnableMasonry}margin: 5px;{/block:IfEnableMasonry}
@@ -1236,15 +1236,17 @@
 			bottom: 10px;
 	}
 	.full-res-link:hover,
-	.full-res-link:hover {
+	.full-res-link:active {
 		opacity: 1;
 	}
-	.audio-player {}
+	.audio-player {
+
+	}
 	.audio-album-art {
 		display: inline-block;
 		float: left;
 		height: 128px;
-		margin-bottom: 5px;
+		margin: 0 15px 5px 0;
 		width: 128px;
 		height: auto;
 	}
@@ -1258,10 +1260,9 @@
 		font-size: 14px;
 	}
 	.audio-ul {
-		padding-left: 138px;
+		margin: 0;
 	}
 	.audio-ul li {
-		border-bottom: 2px solid #141414;
 		list-style-type: none;
 		padding: 5px;
 	}

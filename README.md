@@ -1,4 +1,4 @@
-# Oblivion Theme
+# Oblivion Tumblr Theme
 
 ### a dark [tumblr](http://www.tumblr.com/) theme 
 
@@ -15,17 +15,18 @@
 * Customizable colors
 * Adjustable post width
 * Disqus comments
-* Display latest tweet
+* Display latest tweets
 * Display likes
 * Display following
+* Display Social Icons
 * Like button
 * Reblog button
 * Share buttons
 * Fixed navigation
 * Endless scroll
-* Masonry
+* Masonry option
 
-Latest release: <code>v1.2.6</code>
+Latest release: <code>v1.2.7</code>
 
 ## License
 

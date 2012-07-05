@@ -6,8 +6,9 @@
  *	Oblivion Theme, obliviontheme.tumblr.com
  *	v1.2.7 | 20120703
  *	Author: Miguel Mota, www.miguelmota.com
- *	Contact: hello@miguelmota.com
+ *	Support: obliviontheme@gmail.com
  *	Update News: twitter.com/obliviontheme
+ *	Latest Code: mig.gs/oblivion_latest
  *	License: Creative Commons Attribution 3.0 License
  _____   __       ___                                        
 /\  __`\/\ \     /\_ \    __           __                    

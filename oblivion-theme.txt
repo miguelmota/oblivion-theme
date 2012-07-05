@@ -31,6 +31,8 @@
 	<meta name='text:Facebook Username' content='' />
 	<meta name='text:Flickr Username' content='' />
 	<meta name='text:Lastfm Username' content='' />
+	<meta name='text:Spotify Username' content='' />
+	<meta name='text:SoundCloud Username' content='' />
 	<meta name='text:Tumblr Username' content='' />
 	<meta name='text:Google Plus User ID' content='' />
 	<meta name='text:YouTube Username' content='' />
@@ -58,6 +60,8 @@
 	<meta name='if:Facebook Icon' content='0' />
 	<meta name='if:Flickr Icon' content='0' />
 	<meta name='if:Lastfm Icon' content='0' />
+	<meta name='if:Spotify Icon' content='0' />
+	<meta name='if:SoundCloud Icon' content='0' />
 	<meta name='if:Tumblr Icon' content='0' />
 	<meta name='if:Google Plus Icon' content='0' />
 	<meta name='if:YouTube Icon' content='0' />
@@ -744,6 +748,12 @@
 	}
 	.icon-skype-24 {
 		background: url('http://static.tumblr.com/r8galzl/DvMm6nxfo/skype.png');
+	}
+	.icon-soundcloud-24 {
+		background: url('http://static.tumblr.com/ctuvo3d/rn6m6obp5/soundcloud.png');
+	}
+	.icon-spotify-24 {
+		background: url('http://static.tumblr.com/ctuvo3d/72Jm6oc7o/spotify.png');
 	}
 	.icon-stumbleupon-24 {
 		background: url('http://static.tumblr.com/r8galzl/B5pm6nxbh/stumbleupon.png');
@@ -1663,6 +1673,9 @@
 					{block:IfTwitterIcon}<a class='icon icon-twitter-24 icon-social' href='http://twitter.com/{text:Twitter Username}' rel='external'></a>{/block:IfTwitterIcon}
 					{block:IfFacebookIcon}<a class='icon icon-facebook-24 icon-social' href='http://www.facebook.com/{text:Facebook Username}' rel='external'></a>{/block:IfFacebookIcon}
 					{block:IfFlickrIcon}<a class='icon icon-flickr-24 icon-social' href='http://www.flickr.com/photos/{text:Flickr Username}' rel='external'></a>{/block:IfFlickrIcon}
+					{block:IfLastfmIcon}<a class='icon icon-lastfm-24 icon-social' href='http://www.last.fm/user/{text:Lastfm Username}' rel='external'></a>{/block:IfLastfmIcon}
+					{block:IfSpotifyIcon}<a class='icon icon-spotify-24 icon-social' href='http://open.spotify.com/user/{text:Spotify Username}' rel='external'></a>{/block:IfSpotifyIcon}
+					{block:IfSoundCloudIcon}<a class='icon icon-soundcloud-24 icon-social' href='http://soundcloud.com/{text:SoundCloud Username}' rel='external'></a>{/block:IfSoundCloudIcon}
 					{block:IfTumblrIcon}<a class='icon icon-tumblr-24 icon-social' href='http://{text:Tumblr Username}.tumblr.com' rel='external'></a>{/block:IfTumblrIcon}
 					{block:IfGooglePlusIcon}<a class='icon icon-gplus-24 icon-social' href='https://plus.google.com/{text:Google Plus User ID}' rel='external'></a>{/block:IfGooglePlusIcon}
 					{block:IfYouTubeIcon}<a class='icon icon-youtube-24 icon-social' href='http://www.youtube.com/user/{text:YouTube Username}' rel='external'></a>{/block:IfYouTubeIcon}

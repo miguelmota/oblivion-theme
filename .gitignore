@@ -40,10 +40,10 @@ Thumbs.db
 
 # Other #
 ######################
+_archive
 assets/stuff/
 !assets/css/
 !assets/icons/
 !assets/site/
 !assets/js/
-tests-people/
 releases/

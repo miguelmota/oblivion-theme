@@ -2,6 +2,8 @@
 
 ### a dark [tumblr](http://www.tumblr.com/) theme 
 
+## NOTE: This theme is no longer being maintained as of 2012.
+
 ## Demo
 
 [obliviontheme.tumblr.com](http://obliviontheme.tumblr.com/)
@@ -30,6 +32,4 @@ Latest release: <code>v1.2.7</code>
 
 ## License
 
-Released under the Creative Commons Attribution 3.0 License
-
-(c) 2012 [Miguel Mota](http://www.miguelmota.com/)
+Released under the MIT License.

@@ -1,0 +1,70 @@
+
+Oblivion theme:
+
+/* 
+ * Install button
+ */ 
+<li><a id='install' href='http://www.tumblr.com/theme/32724' rel='external'><span class='icon icon-download-16 icon-nav'></span>Install Theme!</a></li>
+
+/* 
+ * Latest code button
+ */ 
+<li><a id='latest' href='http://mig.gs/oblivion_latest' rel='external'><span class='icon icon-exclamation-16 icon-nav'></span>Get Latest Release v1.2.6</a></li>
+
+/* 
+ * Install button square
+ */
+.install-button {
+  background: url('http://static.tumblr.com/r8galzl/nF0lv6ujq/install-button-sprite.png') no-repeat 0 0;
+  border-radius: 3px;
+  -moz-radius: 3px;
+  -webkit-radius: 3px;
+  display: inline-block;
+  height: 33px;
+  position: absolute;
+  right: 10px;
+  top: 30px;
+  width: 127px;
+}
+.install-button:hover,
+.install-button:active {
+  background-position: 0 -34px;
+}
+.icon-download-16 {
+  background-image: url('http://static.tumblr.com/r8galzl/pCVlv6uc0/download.png');
+}
+
+<a class='install-button' href='http://www.tumblr.com/theme/32724' rel='external'></a>
+
+
+
+
+
+Miguel Mota Tumblr:
+
+/* 
+ * Footer Google+
+ */
+<a class='logo-miguelmota' href='https://plus.google.com/102174577273194387652' rel='author'>Google+</a>
+
+/*
+ * globe icon
+ */
+.icon-world-16 {
+  background-image: url('http://static.tumblr.com/r8galzl/JZflvvss4/world.png');
+}
+
+/*
+ * Website Button
+ */
+<li><a id='ask' href='http://www.miguelmota.com' rel='external'><span class='icon icon-world-16 icon-nav'></span> Website</a></li>
+
+/*
+ * extra icons
+ */
+.icon-exclamation-16 {
+  background-image: url('http://static.tumblr.com/ctuvo3d/0AVm3n0vm/exclamation_.png');
+}
+
+<!-- Infinite, http://codysherman.com/tools/infinite-scrolling -->
+<script src='http://static.tumblr.com/r8galzl/zDglzetsk/infinitescrollingbycodysherman.js'></script>

@@ -1,8 +1,8 @@
-### NOTE: This theme is no longer being maintained as of 2012.
+### This theme is no longer being maintained as of September 2012.
 
 # Oblivion Tumblr Theme
 
-### a dark [tumblr](http://www.tumblr.com/) theme 
+ a dark [tumblr](http://www.tumblr.com/) theme 
 
 ## Demo
 

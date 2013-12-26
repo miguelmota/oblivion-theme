@@ -1,6 +1,6 @@
 ### This theme is no longer being maintained as of September 2012.
 
-# Oblivion Tumblr Theme
+# Oblivion Tumblr Theme v1.2.7
 
  a dark [tumblr](http://www.tumblr.com/) theme 
 
@@ -27,8 +27,6 @@
 * Fixed navigation
 * Endless scroll
 * Masonry option
-
-Latest release: <code>v1.2.7</code>
 
 ## License
 
